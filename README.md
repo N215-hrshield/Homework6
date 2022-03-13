@@ -1,5 +1,5 @@
-# Homework 5: Travel Fly About
+# Homework 6: Travel Fly Tours
 
-## https://in-info-web4.informatics.iupui.edu/~hrshield/Homework5/
+## https://in-info-web4.informatics.iupui.edu/~hrshield/Homework6/
 
-This assingment is all about the about page for the travel fly page. This page changes the Nav to be on a white background instead of a picture and set it up so the following page with white backgrounds can easily import the same styles. The two major pieces of the about page are the clients section and the layout with the quotes to the right of the pictures with clients names under it.
+This section is all about the tours pages for the Travel Fly website. This adds the tour pages and the nine individual
